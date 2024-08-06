@@ -26,7 +26,7 @@ import { SafeAreaInsetsContext } from 'react-native-safe-area-context';
 
 import DrawerItems from './DrawerItems';
 //import App from './RootNavigator';
-import App from './Examples/BottomNavigationExample';
+import App from './pages/BottomNavigationExample';
 
 const PERSISTENCE_KEY = 'NAVIGATION_STATE';
 const PREFERENCES_KEY = 'APP_PREFERENCES';
